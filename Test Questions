@@ -1,0 +1,18 @@
+
+
+1) What are three things you can do in order to speed up a website's load time?
+  - compression.
+  - in line styles
+  - optimize images
+
+2) Go to the Google PageSpeed insights page and analyze www.carnival.com Choose three
+   of the shortcomings this website has and explain the specific tools and workflows we
+   discussed in class which could help this website address these shortcomings.
+
+   -  compress images using online resources like tiny pixel can minimize the file size without effecting the
+      quality of the image. allowing more disk space to be used in other areas.
+
+   -  eliminate external blocking scripts by using inline scripts.
+
+   -   optimizing images by using a .png file eliminate the need render a background-image
+       which can reduce bite size of images. 
